@@ -2,8 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Bullbots/My Documents/--( Bullbots )--/2014/Network Table Library/networktables-desktop-javadoc.jar"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/Bullbots/My Documents/--( Bullbots )--/2014/Network Table Library/networktables-desktop.jar"/>
-	<classpathentry kind="lib" path="C:/OpenCV/opencv/build/java/opencv-248.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/NetworkTable"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV x86"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
